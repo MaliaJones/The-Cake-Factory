@@ -19,6 +19,10 @@ void Cake::build_cake(){
         base = 'X';
     } else if (cake_type == "red velvet"){
         base = 'V';
+    } else if (cake_type == "birthday cake"){
+        base = 'B';
+    } else if (cake_type == "matcha"){
+        base = 'E';
     } else{
         // vanilla
         base = 'O';

@@ -6,7 +6,7 @@ int main(){
     Order o {};
     cout << "Welcome to the Cake Bakery! Let's take your order." << endl;
     cout << "------------------------MENU----------------------------" << endl;
-    cout << "CAKE FLAVORS: vanilla, chocolate, red velevet" << endl;
+    cout << "CAKE FLAVORS: vanilla, chocolate, red velevet, birthday cake, matcha" << endl;
     cout << "FROSTING FAVLORS: vanilla, chocolate, red velvet" << endl;
     cout << "*Max teirs s | 2" << endl;
     cout << "           m | 3" << endl;
